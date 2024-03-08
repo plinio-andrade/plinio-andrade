@@ -12,6 +12,13 @@
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
 </div>
+<br>
+<br>
+<div>
+  <a href="https://beacons.ai/plinio-andrade">
+    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=plinio-andrade&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=plinio-andrade&layout=compact&langs_count=16&theme=radical"/>
+</div>
 
 <!--src="https://raw.githubusercontent.com/gist/plinio-andrade/1904454ba361829b370afdef705477c9/raw/aecba8751f1c5ef78bfa164a8233a87f294ce6de/githubcard.svg"/>
 <img align="right" height="590em" -->
