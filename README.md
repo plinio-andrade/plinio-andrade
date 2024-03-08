@@ -8,8 +8,8 @@
 
 - 👨‍💻 More at [plinio-andrade](https://github.com/plinio-andrade)
 
-<img align="right" height="590em"
 <!--src="https://raw.githubusercontent.com/gist/plinio-andrade/1904454ba361829b370afdef705477c9/raw/aecba8751f1c5ef78bfa164a8233a87f294ce6de/githubcard.svg"/>
+<img align="right" height="590em" -->
 
 
 <!--
