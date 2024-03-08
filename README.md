@@ -4,7 +4,7 @@
 
 - 🔥 Technology student focused in continuous improvement  
 
-- 🌱 I’m currently learning Python & C#/.NET
+- 🌱 I’m currently learning C#/.NET & Python
 
 - 👨‍💻 More at [plinio-andrade](https://github.com/plinio-andrade)
 
