@@ -17,7 +17,7 @@
 <div>
   <a/>
     <img height="150em" src="https://github-readme-stats.vercel.app/api?username=plinio-andrade&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true"/>
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=plinio-andrade&layout=compact&langs_count=16&theme=nightowl"/>
+    <!--<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=plinio-andrade&layout=compact&langs_count=16&theme=nightowl"/> -->
 </div>
 
 <!--src="https://raw.githubusercontent.com/gist/plinio-andrade/1904454ba361829b370afdef705477c9/raw/aecba8751f1c5ef78bfa164a8233a87f294ce6de/githubcard.svg"/>
